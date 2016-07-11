@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\zhanghao\deviceManager\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_98fe2915d7f889fbf7ea276fc69ff0a84f6bb24f.jar" />
+    </item>
+    <item
+        jar="F:\zhanghao\deviceManager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\zhanghao\deviceManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_92d26569dc734d8081d614ebd6984b208acda39a.jar" />
+    </item>
+    <item
+        jar="F:\zhanghao\deviceManager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\zhanghao\deviceManager\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_c4ce2928a9330fc6f9cbdfec4108afdc08ac12dc.jar" />
+    </item>
+    <item
+        jar="F:\zhanghao\deviceManager\app\libs\AdventNetSnmp.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e2e8a316f7024b9e84bfaa9770c2b37b35e7a1">
+        <dex dex="F:\zhanghao\deviceManager\app\build\intermediates\pre-dexed\debug\AdventNetSnmp_2b16b6a24f36c35a197eeb36de1305d065a92257.jar" />
+    </item>
+    <item
+        jar="F:\zhanghao\deviceManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\zhanghao\deviceManager\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_b6a3f39577b211b85c0428ba3780f5b83781c556.jar" />
+    </item>
+    <item
+        jar="F:\zhanghao\deviceManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\zhanghao\deviceManager\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_4d65ef3d8b0a36442afa43a6a5578cb7d2c3b2a4.jar" />
+    </item>
+    <item
+        jar="F:\zhanghao\deviceManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\zhanghao\deviceManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_5f0fb04e8c32c0487fe6a9e8a030393871166d3d.jar" />
+    </item>
+    <item
+        jar="F:\zhanghao\deviceManager\app\libs\jxl.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="F:\zhanghao\deviceManager\app\build\intermediates\pre-dexed\debug\jxl_d52eec261058688aa69184036d380554d2bbaef2.jar" />
+    </item>
+
+</items>

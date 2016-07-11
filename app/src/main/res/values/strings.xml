@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">设备管理</string>
+    <string name="group_name">分组名称</string>
+    <string name="group_desc">分组描述</string>
+    <string name="ip_begin">开始地址</string>
+    <string name="ip_end">结束地址</string>
+    <string name="add">添加</string>
+
+</resources>

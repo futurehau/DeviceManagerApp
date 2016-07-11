@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_bar">#0176da</color>
+    <color name="divider_line">#dddddddd</color>
+    <drawable name="add_group_background">#ffffff</drawable>
+    <drawable name="textColor1">#101010</drawable>
+    <drawable name="textColor2">#ffffff</drawable>
+    <drawable name="child_item_layout">#bae4e6</drawable>
+    <drawable name="group_item_layout">#a6dfe1</drawable>
+    <drawable name="main_background">#ffffff</drawable>
+    <drawable name="group_divider">#ffffff</drawable>
+    <drawable name="child_divider">#f5ffffff</drawable>
+    <drawable name="main_bottom_background">#ffffffff</drawable>
+    <drawable name="progressbar">#3F51B5</drawable>
+</resources>
